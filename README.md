@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-# About Me
-
 ✨ I'm a passionate software developer with a particular love for writing code in Java. I thrive on creating robust, scalable applications and often find myself working within the Spring Boot and Hibernate ecosystems. My front-end framework of choice is React, which allows me to build interactive and dynamic user interfaces.
 
 ## Tech Stack
