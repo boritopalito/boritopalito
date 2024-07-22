@@ -38,11 +38,6 @@ while (coding) {
 
 ---
 
-### 🌐 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-
----
-
 > "In the world of code, curiosity is the compass that guides us to innovation." - Anonymous
 
 ---
