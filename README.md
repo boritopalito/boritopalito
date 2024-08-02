@@ -1,4 +1,4 @@
-# Full Stack Developer & OSRS Reverse Engineer
+# Full Stack Developer
 
 Welcome to my GitHub profile. I specialize in full stack development with Java and React, with a focus on Spring Boot applications. In my spare time, I enjoy reverse engineering Old School RuneScape (OSRS) gamepacks.
 
