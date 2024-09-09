@@ -8,3 +8,7 @@ Welcome to my GitHub profile. I specialize in full stack development with Java a
 - **Spring Boot**: RESTful APIs, microservices, Spring Security
 - **React**: Single-page applications, Redux, Hooks
 - **OSRS Reverse Engineering**: Deobfuscation, gamepack analysis
+
+-----
+
+![](https://komarev.com/ghpvc/?username=boritopalito)
